@@ -266,3 +266,13 @@ body {
 }
 
 /* End Footer */
+
+@media (max-width:381px) {
+    .footer .contact ul {
+        justify-content: center;
+    }
+
+    .subscribe input[type="submit"] {
+        margin-top: 20px;
+    }
+}
